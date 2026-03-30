@@ -1,7 +1,7 @@
 ## 🔢 DataBuddy - A Data Profiling App
 **Automated Data Auditing & Cleaning Roadmap for Analysts**
 
-DataProfiler Pro is a high-performance Streamlit application designed to bridge the gap between raw data and actionable insights. It automates the tedious process of initial data exploration, sanitization, and effort estimation.
+DataBuddy is a high-performance Streamlit application designed to bridge the gap between raw data and actionable insights. It automates the tedious process of initial data exploration, sanitization, and effort estimation.
 
 ### 🚀 Key Features
 - **Smart Sanitization:** Automatically filters out noise by identifying and removing ID-related columns across all data types.
